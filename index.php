@@ -15,7 +15,7 @@
     <script src='//tools.cdc.gov/TemplatePackage/contrib/widgets/tp-widget-external-loader.js'></script><noscript>You need javascript enabled to view this content or go to <a href='//tools.cdc.gov/api/v2/resources/media/403277/noscript'>source URL</a>.</noscript>
 
     <!-- covid-19-health-chatbot start -->
-    <div data-cdc-widget='healthBot' data-cdc-theme='theme1' class='cdc-widget-color-white'  data-cdc-language='en-us'></div>
+    <div style="display: inline-block;height: 153px;position: fixed;right: 0;top: 455px;/* top: 30vh; */z-index: 10000;background-color: aliceblue;margin-right: 45px;" data-cdc-widget='healthBot' data-cdc-theme='theme1' class='cdc-widget-color-white'  data-cdc-language='en-us'></div>
     <script src='https://t.cdc.gov/1M1B'></script>
     <!-- covid-19-health-chatbot bot end -->
 
