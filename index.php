@@ -196,7 +196,7 @@
 
     }
 
-    cdcChatbot(false);
+    cdcChatbot(true);
 
 </script>
 
