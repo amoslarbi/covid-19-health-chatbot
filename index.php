@@ -35,7 +35,7 @@
 
         <img src="https://www.cdc.gov/TemplatePackage/contrib/widgets/healthBot/covid19/images/cdcLogo.svg" />
 
-        <span class="cdc-chatbot-headerText">Coronavirus Self-Checker</span>
+        <span class="cdc-chatbot-headerText">Coronavirus Self-Checker.io</span>
 
         <button type="button" class="cdc-chatbot-close" aria-label="Close" tab-index="2">
 
