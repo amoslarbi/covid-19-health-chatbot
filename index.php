@@ -227,7 +227,7 @@
 
         /* background-color: #005eaa; */
         background-color: #ffffff;
-        color: #fff;
+        color: #000000;
 
         padding: 0.5rem 1rem;
 
@@ -247,7 +247,7 @@
 
     .cdc-chatbot-button:focus {
 
-        background-color: #003b6b;
+        background-color: #ffffff;
 
     }
 
@@ -286,11 +286,8 @@
     .cdc-chatbot-header .cdc-chatbot-close {
 
         background: none;
-
-        color: #fff;
-
+        color: #000000;
         border: none;
-
         margin-left: auto;
 
     }
@@ -406,7 +403,7 @@
     .cdc-chatbot-button {
 
         background: #ffffff;
-        /* color: #fff; */
+        color: #000000;
         padding: 0.5rem 1rem;
         border: 1px solid #005eaa;
         border-bottom: none;
