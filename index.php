@@ -22,7 +22,8 @@
 
     <button style="cursor: pointer" class="cdc-chatbot-button" title="Check your symptoms using a CDC chat bot.">
 
-    <img src="https://www.cdc.gov/TemplatePackage/contrib/widgets/healthBot/covid19/images/cdcLogo.svg" />Coronavirus
+    <!-- <img src="https://www.cdc.gov/TemplatePackage/contrib/widgets/healthBot/covid19/images/cdcLogo.svg" /> -->
+    <img src="http://oasiswebsoft.com/wp-content/uploads/2020/07/oasis_for_web-03-1.png" />Coronavirus
 
     Self-Checker
 
@@ -404,20 +405,13 @@
 
     .cdc-chatbot-button {
 
-        background: #005eaa;
-
-        color: #fff;
-
+        background: #ffffff;
+        /* color: #fff; */
         padding: 0.5rem 1rem;
-
         border: 1px solid #005eaa;
-
         border-bottom: none;
-
         display: flex;
-
         align-items: center;
-
         justify-content: center;
 
     }
