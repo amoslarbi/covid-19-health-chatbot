@@ -35,7 +35,7 @@
 
         <img src="https://www.cdc.gov/TemplatePackage/contrib/widgets/healthBot/covid19/images/cdcLogo.svg" />
 
-        <span class="cdc-chatbot-headerText">Coronavirus Self-Checker.io</span>
+        <span class="cdc-chatbot-headerText">Coronavirus Self-Checker</span>
 
         <button type="button" class="cdc-chatbot-close" aria-label="Close" tab-index="2">
 
@@ -76,7 +76,9 @@
 
                 var iframe = cdcChatbotOverlay.find("iframe");
 
-                iframe.attr("src", "https://covid19healthbot.cdc.gov/");
+                // iframe.attr("src", "https://covid19healthbot.cdc.gov/");
+                    iframe.attr("src", "https://webchat.botframework.com/embed/kojo-p0aokt0?s=YoWQt4bmqWA.J8zaxwLYNuROINIeSZZIclpTTLWNAQc86YJQdD-xFcE");
+                    
 
                 iframe.focus();
 
