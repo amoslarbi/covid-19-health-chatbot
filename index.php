@@ -32,8 +32,9 @@
 <div class="cdc-chatbot-overlay cdc-chatbot-closed">
 
     <div class="cdc-chatbot-header">
-
-        <img src="https://www.cdc.gov/TemplatePackage/contrib/widgets/healthBot/covid19/images/cdcLogo.svg" />
+    
+        <!-- <img src="https://www.cdc.gov/TemplatePackage/contrib/widgets/healthBot/covid19/images/cdcLogo.svg" /> -->
+        <img src="http://oasiswebsoft.com/wp-content/uploads/2020/07/oasis_for_web-03-1.png" />
 
         <span class="cdc-chatbot-headerText">Coronavirus Self-Checker</span>
 
@@ -223,8 +224,8 @@
 
     .cdc-chatbot-button {
 
-        background-color: #005eaa;
-
+        /* background-color: #005eaa; */
+        background-color: #ffffff;
         color: #fff;
 
         padding: 0.5rem 1rem;
@@ -256,11 +257,9 @@
     .cdc-chatbot-button img {
 
         display: inline;
-
         width: 100%;
-
-        max-width: 32px;
-
+        /* max-width: 32px; */
+        max-width: 75px;
         margin-right: 0.5em;
 
     }
@@ -411,7 +410,7 @@
 
         padding: 0.5rem 1rem;
 
-        border: 1px solid #fff;
+        border: 1px solid #005eaa;
 
         border-bottom: none;
 
